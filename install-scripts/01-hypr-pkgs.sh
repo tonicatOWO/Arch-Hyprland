@@ -41,8 +41,10 @@ hypr_package=(
   python-requests
   python-pyquery
   qt5ct
+  qt-style-kvantum
   qt6ct
   qt6-svg
+  qt6-style-kvantum
   rofi
   slurp
   swappy
@@ -55,6 +57,7 @@ hypr_package=(
   wget
   wl-clipboard
   wlogout
+  xfce-polkit
   xdg-user-dirs
   xdg-utils
   yad

@@ -100,6 +100,7 @@ packages=(
     "imagemagick" "Image manipulation tool" "off"
     "kitty" "kitty-terminal" "off"
     "kvantum" "QT apps theming" "off"
+    "qt-style-kvantum" "QT apps theming" "off"
     "mousepad" "simple text editor" "off"
     "mpv" "multi-media player" "off"
     "mpv-mpris" "mpv-plugin" "off"
@@ -115,6 +116,7 @@ packages=(
     "qalculate-gtk" "calculator - QT" "off"
     "qt5ct" "qt5ct" "off"
     "qt6ct" "qt6ct" "off"
+    "qt6-style-kvantum" "QT apps theming" "off"
     "quickshell" "quickshell" "off"
     "rofi-wayland" "rofi-wayland" "off"
     "slurp" "screenshot tool" "off"
@@ -136,6 +138,7 @@ packages=(
     "hypridle" "hyprland idling agent" "off"
     "hyprlock" "lockscreen" "off"
     "hyprpolkitagent" "hyprland polkit agent" "off"
+    "xfce-polkit" "polkit agent" "off"
     "hyprland" "hyprland main package" "off"
 )
 
