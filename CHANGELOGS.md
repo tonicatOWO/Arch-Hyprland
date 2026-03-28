@@ -2,6 +2,7 @@
 
 ## Mar 2026
 
+- Fixed issue with policy kit not properly escalating access
 - Added check for `rofi` it was begin removed
   - Script was trying to install `rofi-wayland`
   - Package no longer exists
