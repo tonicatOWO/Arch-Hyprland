@@ -26,11 +26,13 @@ hypr_package=(
   gvfs
   gvfs-mtp
   hyprpolkitagent
+  hyprsunset
   imagemagick
   inxi
   jq
   kitty
   kvantum
+  kvantum-qt5
   libspng
   nano
   network-manager-applet
@@ -41,10 +43,11 @@ hypr_package=(
   python-requests
   python-pyquery
   qt5ct
-  qt-style-kvantum
+  qt5-declarative
+  qt5-quickcontrols2
   qt6ct
+  qt6-declarative
   qt6-svg
-  qt6-style-kvantum
   rofi
   slurp
   swappy

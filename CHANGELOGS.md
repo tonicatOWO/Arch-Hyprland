@@ -1,4 +1,18 @@
-## CHANGELOGS
+## CHANGELOG
+
+## April 2026
+
+- Fixed: Polkit issue
+  - Added missing QT kvantum pkgs
+  - Which prevented programs like `timeshift` and `easyeffects` from starting
+  ```bash
+  sudo pacman -S qt5-declarative qt5-quickcontrols2 qt6-declarative qt6-quickcontrols2
+  ```
+- Improved: Error handling in the `install.sh` script
+  - Thank you `@moukhtar22` for finding this and filing an issue
+- Removed incorrect `qt` packages
+  - Thank you `@moukhtar22` for finding this and filing an issue
+- Added `rsync` and `hyprsunset`
 
 ## Mar 2026
 
