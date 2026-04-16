@@ -26,6 +26,7 @@ hypr_package=(
   gvfs
   gvfs-mtp
   hyprpolkitagent
+  hyprsunset
   imagemagick
   inxi
   jq
