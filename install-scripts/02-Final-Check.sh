@@ -19,7 +19,7 @@ packages=(
   rofi-wayland
   imagemagick
   swaync
-  swww
+  awww
   wallust
   waybar
   wl-clipboard

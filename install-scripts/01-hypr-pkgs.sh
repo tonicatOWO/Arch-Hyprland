@@ -52,7 +52,7 @@ hypr_package=(
   slurp
   swappy
   swaync
-  swww
+  awww
   unzip # needed later
   uwsm  # In case someone selects USWM login
   wallust
